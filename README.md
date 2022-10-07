@@ -7,7 +7,7 @@ The K-means algorithm can be used to compress the image. Unlike lossless compres
 - Storing the centroid and the index of the centroid of each pixel, so it not need to keep all the original data
 
 ## Results
-![Kmeans Results]()
+![Kmeans Results](https://github.com/SajjadPSavoji/Image-Compression-Kmeans/blob/master/KmeansBanner.jpeg)
 
 ## Resources
  - [Lossy and Lossless Image Compression](https://www.techtarget.com/whatis/definition/lossless-and-lossy-compression)
